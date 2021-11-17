@@ -1,4 +1,4 @@
-# Most common git commands
+# most common git commands
 
 - `git init`
     - Initiate the time-machine
